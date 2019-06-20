@@ -1,0 +1,57 @@
+250x250 normal
+Media da multiplicação da matriz: 0.0502388
+Media da alocação da matriz M1: 7.78e-05
+Media do prenchimento da matriz M1: 0.0018054
+Media da desalocação da matriz M1: 2.54e-05
+
+500x500 normal
+Media da multiplicação da matriz: 0.396178
+Media da alocação da matriz M1: 0.000192
+Media do prenchimento da matriz M1: 0.0071396
+Media da desalocação da matriz M1: 6.82e-05
+
+750x750 normal
+Media da multiplicação da matriz: 1.38927
+Media da alocação da matriz M1: 0.00033
+Media do prenchimento da matriz M1: 0.016308
+Media da desalocação da matriz M1: 0.0001216
+
+1000x1000 normal
+Media da multiplicação da matriz: 4.46857
+Media da alocação da matriz M1: 0.000406
+Media do prenchimento da matriz M1: 0.0314946
+Media da desalocação da matriz M1: 0.000166
+
+1250x1250 normal
+Media da multiplicação da matriz: 10.1928
+Media da alocação da matriz M1: 0.0005038
+Media do prenchimento da matriz M1: 0.0477804
+Media da desalocação da matriz M1: 0.0001934
+
+1500x1500 normal
+Media da multiplicação da matriz: 22.4761
+Media da alocação da matriz M1: 0.0006306
+Media do prenchimento da matriz M1: 0.069
+Media da desalocação da matriz M1: 0.0002168
+
+1750x1750 normal
+Media da multiplicação da matriz: 61.1989
+Media da alocação da matriz M1: 0.0007674
+Media do prenchimento da matriz M1: 0.0895098
+Media da desalocação da matriz M1: 0.000269
+
+2000x2000 normal
+Media da multiplicação da matriz: 106.252
+Media da alocação da matriz M1: 0.000918
+Media do prenchimento da matriz M1: 0.116659
+Media da desalocação da matriz M1: 0.0002968
+
+
+
+
+
+
+
+
+
+

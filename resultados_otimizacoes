@@ -1,0 +1,107 @@
+750x750 normal -O0
+Media da multiplicação da matriz: 2.7845
+Media da alocação da matriz M1: 0.0002978
+Media do prenchimento da matriz M1: 0.0171214
+Media da desalocação da matriz M1: 0.0001202
+
+750x750 transposta
+Media de executar a transposta: 0.0028862
+Media do tempo total: 1.81978
+Media da multiplicação da matriz: 1.8169
+Media da alocação da matriz M1: 0.0002976
+Media do prenchimento da matriz M1: 0.0173982
+Media da desalocação da matriz M1: 0.000108
+
+Tamanho do arquivo para -O0: 18,7kB
+
+750x750 normal -O1
+Media da multiplicação da matriz: 1.40464
+Media da alocação da matriz M1: 0.0003076
+Media do prenchimento da matriz M1: 0.0175672
+Media da desalocação da matriz M1: 0.0001268
+
+750x750 tranposta -O1
+Media de executar a transposta: 0.0010608
+Media do tempo total: 1.2208
+Media da multiplicação da matriz: 1.21974
+Media da alocação da matriz M1: 0.0003
+Media do prenchimento da matriz M1: 0.0165986
+Media da desalocação da matriz M1: 0.0001282
+
+Tamanho do arquivo para -O1: 18,8kB
+
+750x750 normal -O2
+Media da multiplicação da matriz: 0.681414
+Media da alocação da matriz M1: 0.0003012
+Media do prenchimento da matriz M1: 0.0163226
+Media da desalocação da matriz M1: 0.0001078
+
+750x750 tranposta -O2
+Media de executar a transposta: 0.0009576
+Media do tempo total: 0.546779
+Media da multiplicação da matriz: 0.545822
+Media da alocação da matriz M1: 0.0002992
+Media do prenchimento da matriz M1: 0.0177528
+Media da desalocação da matriz M1: 0.0001088
+
+Tamanho do arquivo para -O2: 18,8kB
+
+750x750 normal -O3
+Media da multiplicação da matriz: 0.694959
+Media da alocação da matriz M1: 0.0003022
+Media do prenchimento da matriz M1: 0.0162844
+Media da desalocação da matriz M1: 0.000109
+
+750x750 tranposta -O3
+Media de executar a transposta: 0.0011072
+Media do tempo total: 0.577861
+Media da multiplicação da matriz: 0.576753
+Media da alocação da matriz M1: 0.000303
+Media do prenchimento da matriz M1: 0.0177346
+Media da desalocação da matriz M1: 0.0001222
+
+Tamanho do arquivo para -O3: 18,8kB
+
+750x750 normal -Os
+Media da multiplicação da matriz: 1.3912
+Media da alocação da matriz M1: 0.0003054
+Media do prenchimento da matriz M1: 0.0167242
+Media da desalocação da matriz M1: 0.00011
+
+750x750 tranposta -Os
+Media de executar a transposta: 0.0012662
+Media do tempo total: 1.23914
+Media da multiplicação da matriz: 1.23787
+Media da alocação da matriz M1: 0.0002998
+Media do prenchimento da matriz M1: 0.0175122
+Media da desalocação da matriz M1: 0.0001152
+
+Tamanho do arquivo para -Os : 18,4kB
+
+750x750 normal -Ofast
+Media da multiplicação da matriz: 0.68827
+Media da alocação da matriz M1: 0.00032
+Media do prenchimento da matriz M1: 0.0159082
+Media da desalocação da matriz M1: 0.0001374
+
+750x750 tranposta -Ofast
+Media de executar a transposta: 0.0009912
+Media do tempo total: 0.587715
+Media da multiplicação da matriz: 0.586723
+Media da alocação da matriz M1: 0.0003336
+Media do prenchimento da matriz M1: 0.0162724
+
+Tamanho do arquivo para -Ofast: 20,3kB
+Media da desalocação da matriz M1: 0.0001388
+
+
+
+
+
+
+
+
+
+
+
+

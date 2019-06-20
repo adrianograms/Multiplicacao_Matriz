@@ -1,0 +1,75 @@
+250x250 transposta
+Media de executar a transposta: 5.04e-05
+Media do tempo total: 0.0475528
+Media da multiplicação da matriz: 0.0475024
+Media da alocação da matriz M1: 8.96e-05
+Media do prenchimento da matriz M1: 0.0017842
+Media da desalocação da matriz M1: 3.86e-05
+
+500x500 transposta
+Media de executar a transposta: 0.0004448
+Media do tempo total: 0.360754
+Media da multiplicação da matriz: 0.360309
+Media da alocação da matriz M1: 0.0002002
+Media do prenchimento da matriz M1: 0.0076636
+Media da desalocação da matriz M1: 8.72e-05
+
+750x750 transposta
+Media de executar a transposta: 0.0011638
+Media do tempo total: 1.22648
+Media da multiplicação da matriz: 1.22532
+Media da alocação da matriz M1: 0.0003064
+Media do prenchimento da matriz M1: 0.0172314
+Media da desalocação da matriz M1: 0.000119
+
+1000x1000 tranposta
+Media de executar a transposta: 0.0021636
+Media do tempo total: 2.91328
+Media da multiplicação da matriz: 2.91111
+Media da alocação da matriz M1: 0.0004118
+Media do prenchimento da matriz M1: 0.0307942
+Media da desalocação da matriz M1: 0.0001582
+
+1250x1250 transposta
+Media de executar a transposta: 0.0028906
+Media do tempo total: 5.6842
+Media da multiplicação da matriz: 5.68131
+Media da alocação da matriz M1: 0.0005242
+Media do prenchimento da matriz M1: 0.0497444
+Media da desalocação da matriz M1: 0.000182
+
+1500x1500 transposta
+Media de executar a transposta: 0.0053832
+Media do tempo total: 9.77506
+Media da multiplicação da matriz: 9.76968
+Media da alocação da matriz M1: 0.0006432
+Media do prenchimento da matriz M1: 0.0672734
+Media da desalocação da matriz M1: 0.000209
+
+1750x1750 tranposta
+Media de executar a transposta: 0.008333
+Media do tempo total: 15.5788
+Media da multiplicação da matriz: 15.5705
+Media da alocação da matriz M1: 0.000776
+Media do prenchimento da matriz M1: 0.089407
+Media da desalocação da matriz M1: 0.0002612
+
+2000x2000 tranposta
+Media de executar a transposta: 0.0191206
+Media do tempo total: 23.2085
+Media da multiplicação da matriz: 23.1894
+Media da alocação da matriz M1: 0.000878
+Media do prenchimento da matriz M1: 0.114855
+Media da desalocação da matriz M1: 0.000307
+
+
+
+
+
+
+
+
+
+
+
+
