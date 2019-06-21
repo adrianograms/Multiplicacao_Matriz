@@ -1,0 +1,11 @@
+Processador: Intel Core i5-6400
+Cores: 4 Threads: 4
+
+Cache:
+L1 Data 4 x 32 kBytes 8-way
+L1 Inst. 4 x 32 kBytes 8-way
+Level 2 4 x 256 kBytes 4-way
+Level 3 6 MBytes 12-way
+
+O programa foi rodado em uma maquina virtual Ubuntu ao qual foram disponibilizados
+2 cores e 8 GBytes de RAM
